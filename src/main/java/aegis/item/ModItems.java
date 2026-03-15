@@ -26,6 +26,7 @@ public class ModItems {
 
 
 
+
     public static void registerModItems () {
 
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(fabricItemGroupEntries -> {
