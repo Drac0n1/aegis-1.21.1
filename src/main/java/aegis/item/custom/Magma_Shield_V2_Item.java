@@ -16,4 +16,5 @@ public class Magma_Shield_V2_Item  extends ShieldItem implements Equipment {
     }
 
 
+
 }

@@ -5,6 +5,7 @@ import aegis.item.custom.Magma_Shield_V2_Item;
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroups;
+import net.minecraft.item.Items;
 import net.minecraft.item.ShieldItem;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
