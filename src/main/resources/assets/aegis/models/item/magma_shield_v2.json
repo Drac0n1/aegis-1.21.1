@@ -480,5 +480,13 @@
 			"color": 0,
 			"children": [20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31]
 		}
+	],
+	"overrides": [
+		{
+			"predicate": {
+				"aegis:blocking": 1
+			},
+			"model": "aegis:item/magma_shield_v2_blocking"
+		}
 	]
 }

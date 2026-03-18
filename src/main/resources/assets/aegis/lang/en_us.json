@@ -1,4 +1,6 @@
 {
   "item.aegis.magma_shield_v2": "Magma Shield V2",
-  "itemgroup.aegis.aegis_items": "Aegis Items"
+  "itemgroup.aegis.aegis_items": "Aegis Items",
+  "key.category.aegis.aegis_shields": "Aegis Keybinds",
+  "key.aegis.magma_release": "Magma Shield V2 Release"
 }

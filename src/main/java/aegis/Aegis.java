@@ -2,6 +2,7 @@ package aegis;
 
 import aegis.item.ModItemGroups;
 import aegis.item.ModItems;
+import aegis.networking.ModMessages;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -19,5 +20,6 @@ public class Aegis implements ModInitializer {
 	public void onInitialize() {
 		ModItemGroups.registerItemGroups();
 		ModItems.registerModItems();
+		ModMessages.registerC2SPackets();
 	}
 }

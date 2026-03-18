@@ -15,17 +15,12 @@ import net.minecraft.util.Identifier;
 public class ModItems {
 
 
-    public static final Item MAGMA_SHIELD_V2 = registerItem("magma_shield_v2", new Magma_Shield_V2_Item(new Item.Settings().maxDamage(336)));
+    public static final Item MAGMA_SHIELD_V2 = registerItem("magma_shield_v2", new Magma_Shield_V2_Item(new Item.Settings().maxDamage(1500)));
 
 
     private static Item registerItem(String name, Item item) {
         return Registry.register(Registries.ITEM, Identifier.of(Aegis.MOD_ID, name), item);
     }
-
-
-
-
-
 
     public static void registerModItems () {
 
