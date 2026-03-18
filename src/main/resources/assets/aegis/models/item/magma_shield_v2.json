@@ -427,12 +427,12 @@
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [0, -90, 0],
-			"translation": [3, -5.75, 2.75],
+			"translation": [3.25, -5.75, 2.75],
 			"scale": [1.1, 1.1, 1]
 		},
 		"thirdperson_lefthand": {
 			"rotation": [0, -90, 0],
-			"translation": [3, -5.75, 2.75],
+			"translation": [3.25, -5.75, 2.75],
 			"scale": [1.1, 1.1, 1]
 		},
 		"firstperson_righthand": {
@@ -489,4 +489,5 @@
 			"model": "aegis:item/magma_shield_v2_blocking"
 		}
 	]
+
 }
